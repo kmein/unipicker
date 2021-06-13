@@ -188,6 +188,7 @@ z latin small letter z                                           7A Basic Latin
 ü latin small letter u with diaeresis                            FC Latin-1 Supplement
 ý latin small letter y with acute                                FD Latin-1 Supplement
 þ latin small letter thorn                                       FE Latin-1 Supplement
+ÿ latin small letter y with diaeresis                            FF Latin-1 Supplement
 Ā latin capital letter a with macron                            100 Latin Extended-A
 ā latin small letter a with macron                              101 Latin Extended-A
 Ă latin capital letter a with breve                             102 Latin Extended-A
@@ -315,6 +316,7 @@ z latin small letter z                                           7A Basic Latin
 ż latin small letter z with dot above                           17C Latin Extended-A
 Ž latin capital letter z with caron                             17D Latin Extended-A
 ž latin small letter z with caron                               17E Latin Extended-A
+ſ latin small letter long s                                     17F Latin Extended-A
 ƀ latin small letter b with stroke                              180 Latin Extended-B
 Ɓ latin capital letter b with hook                              181 Latin Extended-B
 Ƃ latin capital letter b with topbar                            182 Latin Extended-B
@@ -522,6 +524,7 @@ z latin small letter z                                           7A Basic Latin
 Ɍ latin capital letter r with stroke                            24C Latin Extended-B
 ɍ latin small letter r with stroke                              24D Latin Extended-B
 Ɏ latin capital letter y with stroke                            24E Latin Extended-B
+ɏ latin small letter y with stroke                              24F Latin Extended-B
 ɐ latin small letter turned a                                   250 IPA Extensions
 ɑ latin small letter alpha                                      251 IPA Extensions
 ɒ latin small letter turned alpha                               252 IPA Extensions
@@ -617,6 +620,7 @@ z latin small letter z                                           7A Basic Latin
 ʬ latin letter bilabial percussive                              2AC IPA Extensions
 ʭ latin letter bidental percussive                              2AD IPA Extensions
 ʮ latin small letter turned h with fishhook                     2AE IPA Extensions
+ʯ latin small letter turned h with fishhook and tail            2AF IPA Extensions
 ʰ modifier letter small h                                       2B0 Spacing Modifier Letters
 ʱ modifier letter small h with hook                             2B1 Spacing Modifier Letters
 ʲ modifier letter small j                                       2B2 Spacing Modifier Letters
@@ -696,6 +700,7 @@ z latin small letter z                                           7A Basic Latin
 ˼ modifier letter end low tone                                  2FC Spacing Modifier Letters
 ˽ modifier letter shelf                                         2FD Spacing Modifier Letters
 ˾ modifier letter open shelf                                    2FE Spacing Modifier Letters
+˿ modifier letter low left arrow                                2FF Spacing Modifier Letters
 ̀ combining grave accent                                        300 Combining Diacritical Marks
 ́ combining acute accent                                        301 Combining Diacritical Marks
 ̂ combining circumflex accent                                   302 Combining Diacritical Marks
@@ -807,6 +812,7 @@ z latin small letter z                                           7A Basic Latin
 ͬ combining latin small letter r                                36C Combining Diacritical Marks
 ͭ combining latin small letter t                                36D Combining Diacritical Marks
 ͮ combining latin small letter v                                36E Combining Diacritical Marks
+ͯ combining latin small letter x                                36F Combining Diacritical Marks
 Ͱ greek capital letter heta                                     370 Greek and Coptic
 ͱ greek small letter heta                                       371 Greek and Coptic
 Ͳ greek capital letter archaic sampi                            372 Greek and Coptic
@@ -941,6 +947,7 @@ z latin small letter z                                           7A Basic Latin
 ϼ greek rho with stroke symbol                                  3FC Greek and Coptic
 Ͻ greek capital reversed lunate sigma symbol                    3FD Greek and Coptic
 Ͼ greek capital dotted lunate sigma symbol                      3FE Greek and Coptic
+Ͽ greek capital reversed dotted lunate sigma symbol             3FF Greek and Coptic
 Ѐ cyrillic capital letter ie with grave                         400 Cyrillic
 Ё cyrillic capital letter io                                    401 Cyrillic
 Ђ cyrillic capital letter dje                                   402 Cyrillic
@@ -1196,6 +1203,7 @@ z latin small letter z                                           7A Basic Latin
 Ӽ cyrillic capital letter ha with hook                          4FC Cyrillic
 ӽ cyrillic small letter ha with hook                            4FD Cyrillic
 Ӿ cyrillic capital letter ha with stroke                        4FE Cyrillic
+ӿ cyrillic small letter ha with stroke                          4FF Cyrillic
 Ԁ cyrillic capital letter komi de                               500 Cyrillic Supplement
 ԁ cyrillic small letter komi de                                 501 Cyrillic Supplement
 Ԃ cyrillic capital letter komi dje                              502 Cyrillic Supplement
@@ -1243,6 +1251,7 @@ z latin small letter z                                           7A Basic Latin
 Ԭ cyrillic capital letter dche                                  52C Cyrillic Supplement
 ԭ cyrillic small letter dche                                    52D Cyrillic Supplement
 Ԯ cyrillic capital letter el with descender                     52E Cyrillic Supplement
+ԯ cyrillic small letter el with descender                       52F Cyrillic Supplement
 Ա armenian capital letter ayb                                   531 Armenian
 Բ armenian capital letter ben                                   532 Armenian
 Գ armenian capital letter gim                                   533 Armenian
@@ -1333,6 +1342,7 @@ z latin small letter z                                           7A Basic Latin
 ֊ armenian hyphen                                               58A Armenian
 ֍ right-facing armenian eternity sign                           58D Armenian
 ֎ left-facing armenian eternity sign                            58E Armenian
+֏ armenian dram sign                                            58F Armenian
 ֑ hebrew accent etnahta                                         591 Hebrew
 ֒ hebrew accent segol                                           592 Hebrew
 ֓ hebrew accent shalshelet                                      593 Hebrew
@@ -1675,6 +1685,7 @@ z latin small letter z                                           7A Basic Latin
 ۼ arabic letter ghain with dot below                            6FC Arabic
 ۽ arabic sign sindhi ampersand                                  6FD Arabic
 ۾ arabic sign sindhi postposition men                           6FE Arabic
+ۿ arabic letter heh with inverted v                             6FF Arabic
 ݐ arabic letter beh with three dots horizontally below          750 Arabic Supplement
 ݑ arabic letter beh with dot below and three dots above         751 Arabic Supplement
 ݒ arabic letter beh with three dots pointing upwards below      752 Arabic Supplement
@@ -1722,6 +1733,7 @@ z latin small letter z                                           7A Basic Latin
 ݼ arabic letter hah with extended arabic-indic digit four below    77C Arabic Supplement
 ݽ arabic letter seen with extended arabic-indic digit four above    77D Arabic Supplement
 ݾ arabic letter seen with inverted v                            77E Arabic Supplement
+ݿ arabic letter kaf with two dots above                         77F Arabic Supplement
 ހ thaana letter haa                                             780 Thaana
 ށ thaana letter shaviyani                                       781 Thaana
 ނ thaana letter noonu                                           782 Thaana
@@ -1899,6 +1911,7 @@ z latin small letter z                                           7A Basic Latin
 ॼ devanagari letter jja                                         97C Devanagari
 ॽ devanagari letter glottal stop                                97D Devanagari
 ॾ devanagari letter ddda                                        97E Devanagari
+ॿ devanagari letter bba                                         97F Devanagari
 ঀ bengali anji                                                  980 Bengali
 ঁ bengali sign candrabindu                                      981 Bengali
 ং bengali sign anusvara                                         982 Bengali
@@ -2164,6 +2177,7 @@ z latin small letter z                                           7A Basic Latin
 ౼ telugu fraction digit one for even powers of four             C7C Telugu
 ౽ telugu fraction digit two for even powers of four             C7D Telugu
 ౾ telugu fraction digit three for even powers of four           C7E Telugu
+౿ telugu sign tuumu                                             C7F Telugu
 ಀ kannada sign spacing candrabindu                              C80 Kannada
 ಁ kannada sign candrabindu                                      C81 Kannada
 ಂ kannada sign anusvara                                         C82 Kannada
@@ -2369,6 +2383,7 @@ z latin small letter z                                           7A Basic Latin
 ർ malayalam letter chillu rr                                    D7C Malayalam
 ൽ malayalam letter chillu l                                     D7D Malayalam
 ൾ malayalam letter chillu ll                                    D7E Malayalam
+ൿ malayalam letter chillu k                                     D7F Malayalam
 ං sinhala sign anusvaraya                                       D82 Sinhala
 ඃ sinhala sign visargaya                                        D83 Sinhala
 අ sinhala letter ayanna                                         D85 Sinhala
@@ -2926,6 +2941,7 @@ z latin small letter z                                           7A Basic Latin
 ჼ modifier letter georgian nar                                 10FC Georgian
 ჽ georgian letter aen                                          10FD Georgian
 ჾ georgian letter hard sign                                    10FE Georgian
+ჿ georgian letter labial sign                                  10FF Georgian
 ሀ ethiopic syllable ha                                         1200 Ethiopic
 ሁ ethiopic syllable hu                                         1201 Ethiopic
 ሂ ethiopic syllable hi                                         1202 Ethiopic
@@ -4015,6 +4031,7 @@ z latin small letter z                                           7A Basic Latin
 ᙼ canadian syllabics woods-cree thwa                           167C Unified Canadian Aboriginal Syllabics
 ᙽ canadian syllabics woods-cree thwaa                          167D Unified Canadian Aboriginal Syllabics
 ᙾ canadian syllabics woods-cree final th                       167E Unified Canadian Aboriginal Syllabics
+ᙿ canadian syllabics blackfoot w                               167F Unified Canadian Aboriginal Syllabics
   ogham space mark                                             1680 Ogham
 ᚁ ogham letter beith                                           1681 Ogham
 ᚂ ogham letter luis                                            1682 Ogham
@@ -4495,6 +4512,7 @@ z latin small letter z                                           7A Basic Latin
 ᵼ latin small letter iota with stroke                          1D7C Phonetic Extensions
 ᵽ latin small letter p with stroke                             1D7D Phonetic Extensions
 ᵾ latin small capital letter u with stroke                     1D7E Phonetic Extensions
+ᵿ latin small letter upsilon with stroke                       1D7F Phonetic Extensions
 ᶀ latin small letter b with palatal hook                       1D80 Phonetic Extensions Supplement
 ᶁ latin small letter d with palatal hook                       1D81 Phonetic Extensions Supplement
 ᶂ latin small letter f with palatal hook                       1D82 Phonetic Extensions Supplement
@@ -4558,6 +4576,7 @@ z latin small letter z                                           7A Basic Latin
 ᶼ modifier letter small z with retroflex hook                  1DBC Phonetic Extensions Supplement
 ᶽ modifier letter small z with curl                            1DBD Phonetic Extensions Supplement
 ᶾ modifier letter small ezh                                    1DBE Phonetic Extensions Supplement
+ᶿ modifier letter small theta                                  1DBF Phonetic Extensions Supplement
 ᷀ combining dotted grave accent                                1DC0 Combining Diacritical Marks Supplement
 ᷁ combining dotted acute accent                                1DC1 Combining Diacritical Marks Supplement
 ᷂ combining snake below                                        1DC2 Combining Diacritical Marks Supplement
@@ -4620,6 +4639,7 @@ z latin small letter z                                           7A Basic Latin
 ᷼ combining double inverted breve below                        1DFC Combining Diacritical Marks Supplement
 ᷽ combining almost equal to below                              1DFD Combining Diacritical Marks Supplement
 ᷾ combining left arrowhead above                               1DFE Combining Diacritical Marks Supplement
+᷿ combining right arrowhead and down arrowhead below           1DFF Combining Diacritical Marks Supplement
 Ḁ latin capital letter a with ring below                       1E00 Latin Extended Additional
 ḁ latin small letter a with ring below                         1E01 Latin Extended Additional
 Ḃ latin capital letter b with dot above                        1E02 Latin Extended Additional
@@ -4875,6 +4895,7 @@ z latin small letter z                                           7A Basic Latin
 Ỽ latin capital letter middle-welsh v                          1EFC Latin Extended Additional
 ỽ latin small letter middle-welsh v                            1EFD Latin Extended Additional
 Ỿ latin capital letter y with loop                             1EFE Latin Extended Additional
+ỿ latin small letter y with loop                               1EFF Latin Extended Additional
 ἀ greek small letter alpha with psili                          1F00 Greek Extended
 ἁ greek small letter alpha with dasia                          1F01 Greek Extended
 ἂ greek small letter alpha with psili and varia                1F02 Greek Extended
@@ -5218,6 +5239,7 @@ z latin small letter z                                           7A Basic Latin
 ⁬ inhibit arabic form shaping                                  206C General Punctuation
 ⁭ activate arabic form shaping                                 206D General Punctuation
 ⁮ national digit shapes                                        206E General Punctuation
+⁯ nominal digit shapes                                         206F General Punctuation
 ⁰ superscript zero                                             2070 Superscripts and Subscripts
 ⁱ superscript latin small letter i                             2071 Superscripts and Subscripts
 ⁴ superscript four                                             2074 Superscripts and Subscripts
@@ -5404,6 +5426,7 @@ z latin small letter z                                           7A Basic Latin
 ⅌ per sign                                                     214C Letterlike Symbols
 ⅍ aktieselskab                                                 214D Letterlike Symbols
 ⅎ turned small f                                               214E Letterlike Symbols
+⅏ symbol for samaritan source                                  214F Letterlike Symbols
 ⅐ vulgar fraction one seventh                                  2150 Number Forms
 ⅑ vulgar fraction one ninth                                    2151 Number Forms
 ⅒ vulgar fraction one tenth                                    2152 Number Forms
@@ -5575,6 +5598,7 @@ z latin small letter z                                           7A Basic Latin
 ⇼ left right arrow with double vertical stroke                 21FC Arrows
 ⇽ leftwards open-headed arrow                                  21FD Arrows
 ⇾ rightwards open-headed arrow                                 21FE Arrows
+⇿ left right open-headed arrow                                 21FF Arrows
 ∀ for all                                                      2200 Mathematical Operators
 ∁ complement                                                   2201 Mathematical Operators
 ∂ partial differential                                         2202 Mathematical Operators
@@ -5830,6 +5854,7 @@ z latin small letter z                                           7A Basic Latin
 ⋼ small contains with vertical bar at end of horizontal stroke   22FC Mathematical Operators
 ⋽ contains with overbar                                        22FD Mathematical Operators
 ⋾ small contains with overbar                                  22FE Mathematical Operators
+⋿ z notation bag membership                                    22FF Mathematical Operators
 ⌀ diameter sign                                                2300 Miscellaneous Technical
 ⌁ electric arrow                                               2301 Miscellaneous Technical
 ⌂ house                                                        2302 Miscellaneous Technical
@@ -6085,6 +6110,7 @@ z latin small letter z                                           7A Basic Latin
 ⏼ power on-off symbol                                          23FC Miscellaneous Technical
 ⏽ power on symbol                                              23FD Miscellaneous Technical
 ⏾ power sleep symbol                                           23FE Miscellaneous Technical
+⏿ observer eye symbol                                          23FF Miscellaneous Technical
 ␀ symbol for null                                              2400 Control Pictures
 ␁ symbol for start of heading                                  2401 Control Pictures
 ␂ symbol for start of text                                     2402 Control Pictures
@@ -6294,6 +6320,7 @@ z latin small letter z                                           7A Basic Latin
 ⓼ double circled digit eight                                   24FC Enclosed Alphanumerics
 ⓽ double circled digit nine                                    24FD Enclosed Alphanumerics
 ⓾ double circled number ten                                    24FE Enclosed Alphanumerics
+⓿ negative circled digit zero                                  24FF Enclosed Alphanumerics
 ─ box drawings light horizontal                                2500 Box Drawing
 ━ box drawings heavy horizontal                                2501 Box Drawing
 │ box drawings light vertical                                  2502 Box Drawing
@@ -6421,6 +6448,7 @@ z latin small letter z                                           7A Basic Latin
 ╼ box drawings light left and heavy right                      257C Box Drawing
 ╽ box drawings light up and heavy down                         257D Box Drawing
 ╾ box drawings heavy left and light right                      257E Box Drawing
+╿ box drawings heavy up and light down                         257F Box Drawing
 ▀ upper half block                                             2580 Block Elements
 ▁ lower one eighth block                                       2581 Block Elements
 ▂ lower one quarter block                                      2582 Block Elements
@@ -6452,6 +6480,7 @@ z latin small letter z                                           7A Basic Latin
 ▜ quadrant upper left and upper right and lower right          259C Block Elements
 ▝ quadrant upper right                                         259D Block Elements
 ▞ quadrant upper right and lower left                          259E Block Elements
+▟ quadrant upper right and lower left and lower right          259F Block Elements
 ■ black square                                                 25A0 Geometric Shapes
 □ white square                                                 25A1 Geometric Shapes
 ▢ white square with rounded corners                            25A2 Geometric Shapes
@@ -6547,6 +6576,7 @@ z latin small letter z                                           7A Basic Latin
 ◼ black medium square                                          25FC Geometric Shapes
 ◽ white medium small square                                    25FD Geometric Shapes
 ◾ black medium small square                                    25FE Geometric Shapes
+◿ lower right triangle                                         25FF Geometric Shapes
 ☀ black sun with rays                                          2600 Miscellaneous Symbols
 ☁ cloud                                                        2601 Miscellaneous Symbols
 ☂ umbrella                                                     2602 Miscellaneous Symbols
@@ -6802,6 +6832,7 @@ z latin small letter z                                           7A Basic Latin
 ⛼ headstone graveyard symbol                                   26FC Miscellaneous Symbols
 ⛽ fuel pump                                                    26FD Miscellaneous Symbols
 ⛾ cup on black square                                          26FE Miscellaneous Symbols
+⛿ white flag with horizontal middle black stripe               26FF Miscellaneous Symbols
 ✀ black safety scissors                                        2700 Dingbats
 ✁ upper blade scissors                                         2701 Dingbats
 ✂ black scissors                                               2702 Dingbats
@@ -6993,6 +7024,7 @@ z latin small letter z                                           7A Basic Latin
 ➼ wedge-tailed rightwards arrow                                27BC Dingbats
 ➽ heavy wedge-tailed rightwards arrow                          27BD Dingbats
 ➾ open-outlined rightwards arrow                               27BE Dingbats
+➿ double curly loop                                            27BF Dingbats
 ⟀ three dimensional angle                                      27C0 Miscellaneous Mathematical Symbols-A
 ⟁ white triangle containing small white triangle               27C1 Miscellaneous Mathematical Symbols-A
 ⟂ perpendicular                                                27C2 Miscellaneous Mathematical Symbols-A
@@ -7040,6 +7072,7 @@ z latin small letter z                                           7A Basic Latin
 ⟬ mathematical left white tortoise shell bracket               27EC Miscellaneous Mathematical Symbols-A
 ⟭ mathematical right white tortoise shell bracket              27ED Miscellaneous Mathematical Symbols-A
 ⟮ mathematical left flattened parenthesis                      27EE Miscellaneous Mathematical Symbols-A
+⟯ mathematical right flattened parenthesis                     27EF Miscellaneous Mathematical Symbols-A
 ⟰ upwards quadruple arrow                                      27F0 Supplemental Arrows-A
 ⟱ downwards quadruple arrow                                    27F1 Supplemental Arrows-A
 ⟲ anticlockwise gapped circle arrow                            27F2 Supplemental Arrows-A
@@ -7055,6 +7088,7 @@ z latin small letter z                                           7A Basic Latin
 ⟼ long rightwards arrow from bar                               27FC Supplemental Arrows-A
 ⟽ long leftwards double arrow from bar                         27FD Supplemental Arrows-A
 ⟾ long rightwards double arrow from bar                        27FE Supplemental Arrows-A
+⟿ long rightwards squiggle arrow                               27FF Supplemental Arrows-A
 ⠀ braille pattern blank                                        2800 Braille Patterns
 ⠁ braille pattern dots-1                                       2801 Braille Patterns
 ⠂ braille pattern dots-2                                       2802 Braille Patterns
@@ -7310,6 +7344,7 @@ z latin small letter z                                           7A Basic Latin
 ⣼ braille pattern dots-345678                                  28FC Braille Patterns
 ⣽ braille pattern dots-1345678                                 28FD Braille Patterns
 ⣾ braille pattern dots-2345678                                 28FE Braille Patterns
+⣿ braille pattern dots-12345678                                28FF Braille Patterns
 ⤀ rightwards two-headed arrow with vertical stroke             2900 Supplemental Arrows-B
 ⤁ rightwards two-headed arrow with double vertical stroke      2901 Supplemental Arrows-B
 ⤂ leftwards double arrow with vertical stroke                  2902 Supplemental Arrows-B
@@ -7437,6 +7472,7 @@ z latin small letter z                                           7A Basic Latin
 ⥼ left fish tail                                               297C Supplemental Arrows-B
 ⥽ right fish tail                                              297D Supplemental Arrows-B
 ⥾ up fish tail                                                 297E Supplemental Arrows-B
+⥿ down fish tail                                               297F Supplemental Arrows-B
 ⦀ triple vertical bar delimiter                                2980 Miscellaneous Mathematical Symbols-B
 ⦁ z notation spot                                              2981 Miscellaneous Mathematical Symbols-B
 ⦂ z notation type colon                                        2982 Miscellaneous Mathematical Symbols-B
@@ -7564,6 +7600,7 @@ z latin small letter z                                           7A Basic Latin
 ⧼ left-pointing curved angle bracket                           29FC Miscellaneous Mathematical Symbols-B
 ⧽ right-pointing curved angle bracket                          29FD Miscellaneous Mathematical Symbols-B
 ⧾ tiny                                                         29FE Miscellaneous Mathematical Symbols-B
+⧿ miny                                                         29FF Miscellaneous Mathematical Symbols-B
 ⨀ n-ary circled dot operator                                   2A00 Supplemental Mathematical Operators
 ⨁ n-ary circled plus operator                                  2A01 Supplemental Mathematical Operators
 ⨂ n-ary circled times operator                                 2A02 Supplemental Mathematical Operators
@@ -7819,6 +7856,7 @@ z latin small letter z                                           7A Basic Latin
 ⫼ large triple vertical bar operator                           2AFC Supplemental Mathematical Operators
 ⫽ double solidus operator                                      2AFD Supplemental Mathematical Operators
 ⫾ white vertical bar                                           2AFE Supplemental Mathematical Operators
+⫿ n-ary white vertical bar                                     2AFF Supplemental Mathematical Operators
 ⬀ north east white arrow                                       2B00 Miscellaneous Symbols and Arrows
 ⬁ north west white arrow                                       2B01 Miscellaneous Symbols and Arrows
 ⬂ south east white arrow                                       2B02 Miscellaneous Symbols and Arrows
@@ -8070,6 +8108,7 @@ z latin small letter z                                           7A Basic Latin
 ⯼ doubled symbol                                               2BFC Miscellaneous Symbols and Arrows
 ⯽ passed symbol                                                2BFD Miscellaneous Symbols and Arrows
 ⯾ reversed right angle                                         2BFE Miscellaneous Symbols and Arrows
+⯿ hellschreiber pause symbol                                   2BFF Miscellaneous Symbols and Arrows
 Ⰰ glagolitic capital letter azu                                2C00 Glagolitic
 Ⰱ glagolitic capital letter buky                               2C01 Glagolitic
 Ⰲ glagolitic capital letter vede                               2C02 Glagolitic
@@ -8195,6 +8234,7 @@ z latin small letter z                                           7A Basic Latin
 ⱼ latin subscript small letter j                               2C7C Latin Extended-C
 ⱽ modifier letter capital v                                    2C7D Latin Extended-C
 Ȿ latin capital letter s with swash tail                       2C7E Latin Extended-C
+Ɀ latin capital letter z with swash tail                       2C7F Latin Extended-C
 Ⲁ coptic capital letter alfa                                   2C80 Coptic
 ⲁ coptic small letter alfa                                     2C81 Coptic
 Ⲃ coptic capital letter vida                                   2C82 Coptic
@@ -8317,6 +8357,7 @@ z latin small letter z                                           7A Basic Latin
 ⳼ coptic old nubian verse divider                              2CFC Coptic
 ⳽ coptic fraction one half                                     2CFD Coptic
 ⳾ coptic full stop                                             2CFE Coptic
+⳿ coptic morphological divider                                 2CFF Coptic
 ⴰ tifinagh letter ya                                           2D30 Tifinagh
 ⴱ tifinagh letter yab                                          2D31 Tifinagh
 ⴲ tifinagh letter yabh                                         2D32 Tifinagh
@@ -8375,6 +8416,7 @@ z latin small letter z                                           7A Basic Latin
 ⵧ tifinagh letter yo                                           2D67 Tifinagh
 ⵯ tifinagh modifier letter labialization mark                  2D6F Tifinagh
 ⵰ tifinagh separator mark                                      2D70 Tifinagh
+⵿ tifinagh consonant joiner                                    2D7F Tifinagh
 ⿰ ideographic description character left to right              2FF0 Ideographic Description Characters
 ⿱ ideographic description character above to below             2FF1 Ideographic Description Characters
 ⿲ ideographic description character left to middle and right   2FF2 Ideographic Description Characters
@@ -8450,6 +8492,7 @@ z latin small letter z                                           7A Basic Latin
 〼 masu mark                                                    303C CJK Symbols and Punctuation
 〽 part alternation mark                                        303D CJK Symbols and Punctuation
 〾 ideographic variation indicator                              303E CJK Symbols and Punctuation
+〿 ideographic half fill space                                  303F CJK Symbols and Punctuation
 ぁ hiragana letter small a                                      3041 Hiragana
 あ hiragana letter a                                            3042 Hiragana
 ぃ hiragana letter small i                                      3043 Hiragana
@@ -8542,6 +8585,7 @@ z latin small letter z                                           7A Basic Latin
 ゜ katakana-hiragana semi-voiced sound mark                     309C Hiragana
 ゝ hiragana iteration mark                                      309D Hiragana
 ゞ hiragana voiced iteration mark                               309E Hiragana
+ゟ hiragana digraph yori                                        309F Hiragana
 ゠ katakana-hiragana double hyphen                              30A0 Katakana
 ァ katakana letter small a                                      30A1 Katakana
 ア katakana letter a                                            30A2 Katakana
@@ -8637,6 +8681,7 @@ z latin small letter z                                           7A Basic Latin
 ー katakana-hiragana prolonged sound mark                       30FC Katakana
 ヽ katakana iteration mark                                      30FD Katakana
 ヾ katakana voiced iteration mark                               30FE Katakana
+ヿ katakana digraph koto                                        30FF Katakana
 ㄅ bopomofo letter b                                            3105 Bopomofo
 ㄆ bopomofo letter p                                            3106 Bopomofo
 ㄇ bopomofo letter m                                            3107 Bopomofo
@@ -8679,6 +8724,7 @@ z latin small letter z                                           7A Basic Latin
 ㄬ bopomofo letter gn                                           312C Bopomofo
 ㄭ bopomofo letter ih                                           312D Bopomofo
 ㄮ bopomofo letter o with dot above                             312E Bopomofo
+ㄯ bopomofo letter nn                                           312F Bopomofo
 ䷀ hexagram for the creative heaven                             4DC0 Yijing Hexagram Symbols
 ䷁ hexagram for the receptive earth                             4DC1 Yijing Hexagram Symbols
 ䷂ hexagram for difficulty at the beginning                     4DC2 Yijing Hexagram Symbols
@@ -8742,6 +8788,7 @@ z latin small letter z                                           7A Basic Latin
 ䷼ hexagram for inner truth                                     4DFC Yijing Hexagram Symbols
 ䷽ hexagram for small preponderance                             4DFD Yijing Hexagram Symbols
 ䷾ hexagram for after completion                                4DFE Yijing Hexagram Symbols
+䷿ hexagram for before completion                               4DFF Yijing Hexagram Symbols
 Ꙁ cyrillic capital letter zemlya                               A640 Cyrillic Extended-B
 ꙁ cyrillic small letter zemlya                                 A641 Cyrillic Extended-B
 Ꙃ cyrillic capital letter dzelo                                A642 Cyrillic Extended-B
@@ -8837,6 +8884,7 @@ z latin small letter z                                           7A Basic Latin
 ꚜ modifier letter cyrillic hard sign                           A69C Cyrillic Extended-B
 ꚝ modifier letter cyrillic soft sign                           A69D Cyrillic Extended-B
 ꚞ combining cyrillic letter ef                                 A69E Cyrillic Extended-B
+ꚟ combining cyrillic letter iotified e                         A69F Cyrillic Extended-B
 ꜀ modifier letter chinese tone yin ping                        A700 Modifier Tone Letters
 ꜁ modifier letter chinese tone yang ping                       A701 Modifier Tone Letters
 ꜂ modifier letter chinese tone yin shang                       A702 Modifier Tone Letters
@@ -8868,6 +8916,7 @@ z latin small letter z                                           7A Basic Latin
 ꜜ modifier letter raised down arrow                            A71C Modifier Tone Letters
 ꜝ modifier letter raised exclamation mark                      A71D Modifier Tone Letters
 ꜞ modifier letter raised inverted exclamation mark             A71E Modifier Tone Letters
+ꜟ modifier letter low inverted exclamation mark                A71F Modifier Tone Letters
 ꜠ modifier letter stress and high tone                         A720 Latin Extended-D
 ꜡ modifier letter stress and low tone                          A721 Latin Extended-D
 Ꜣ latin capital letter egyptological alef                      A722 Latin Extended-D
@@ -9041,6 +9090,7 @@ z latin small letter z                                           7A Basic Latin
 ꟼ latin epigraphic letter reversed p                           A7FC Latin Extended-D
 ꟽ latin epigraphic letter inverted m                           A7FD Latin Extended-D
 ꟾ latin epigraphic letter i longa                              A7FE Latin Extended-D
+ꟿ latin epigraphic letter archaic m                            A7FF Latin Extended-D
 ꠰ north indic fraction one quarter                             A830 Common Indic Number Forms
 ꠱ north indic fraction one half                                A831 Common Indic Number Forms
 ꠲ north indic fraction three quarters                          A832 Common Indic Number Forms
@@ -9164,6 +9214,7 @@ z latin small letter z                                           7A Basic Latin
 בֿ hebrew letter bet with rafe                                  FB4C Alphabetic Presentation Forms
 כֿ hebrew letter kaf with rafe                                  FB4D Alphabetic Presentation Forms
 פֿ hebrew letter pe with rafe                                   FB4E Alphabetic Presentation Forms
+ﭏ hebrew ligature alef lamed                                   FB4F Alphabetic Presentation Forms
 ﭐ arabic letter alef wasla isolated form                       FB50 Arabic Presentation Forms-A
 ﭑ arabic letter alef wasla final form                          FB51 Arabic Presentation Forms-A
 ﭒ arabic letter beeh isolated form                             FB52 Arabic Presentation Forms-A
@@ -9941,6 +9992,7 @@ z latin small letter z                                           7A Basic Latin
 ﻺ arabic ligature lam with alef with hamza below final form    FEFA Arabic Presentation Forms-B
 ﻻ arabic ligature lam with alef isolated form                  FEFB Arabic Presentation Forms-B
 ﻼ arabic ligature lam with alef final form                     FEFC Arabic Presentation Forms-B
+﻿ zero width no-break space                                    FEFF Arabic Presentation Forms-B
 ！ fullwidth exclamation mark                                   FF01 Halfwidth and Fullwidth Forms
 ＂ fullwidth quotation mark                                     FF02 Halfwidth and Fullwidth Forms
 ＃ fullwidth number sign                                        FF03 Halfwidth and Fullwidth Forms
@@ -10438,6 +10490,7 @@ z latin small letter z                                           7A Basic Latin
 𐄼 aegean dry measure first subunit                            1013C Aegean Numbers
 𐄽 aegean liquid measure first subunit                         1013D Aegean Numbers
 𐄾 aegean measure second subunit                               1013E Aegean Numbers
+𐄿 aegean measure third subunit                                1013F Aegean Numbers
 𐅀 greek acrophonic attic one quarter                          10140 Ancient Greek Numbers
 𐅁 greek acrophonic attic one half                             10141 Ancient Greek Numbers
 𐅂 greek acrophonic attic one drachma                          10142 Ancient Greek Numbers
@@ -10720,6 +10773,7 @@ z latin small letter z                                           7A Basic Latin
 𐌣 old italic numeral fifty                                    10323 Old Italic
 𐌭 old italic letter ye                                        1032D Old Italic
 𐌮 old italic letter northern tse                              1032E Old Italic
+𐌯 old italic letter southern tse                              1032F Old Italic
 𐌰 gothic letter ahsa                                          10330 Gothic
 𐌱 gothic letter bairkan                                       10331 Gothic
 𐌲 gothic letter giba                                          10332 Gothic
@@ -11169,6 +11223,7 @@ z latin small letter z                                           7A Basic Latin
 𐡼 palmyrene number four                                       1087C Palmyrene
 𐡽 palmyrene number five                                       1087D Palmyrene
 𐡾 palmyrene number ten                                        1087E Palmyrene
+𐡿 palmyrene number twenty                                     1087F Palmyrene
 𐢀 nabataean letter final aleph                                10880 Nabataean
 𐢁 nabataean letter aleph                                      10881 Nabataean
 𐢂 nabataean letter final beth                                 10882 Nabataean
@@ -11208,6 +11263,7 @@ z latin small letter z                                           7A Basic Latin
 𐢬 nabataean number five                                       108AC Nabataean
 𐢭 nabataean number ten                                        108AD Nabataean
 𐢮 nabataean number twenty                                     108AE Nabataean
+𐢯 nabataean number one hundred                                108AF Nabataean
 𐤀 phoenician letter alf                                       10900 Phoenician
 𐤁 phoenician letter bet                                       10901 Phoenician
 𐤂 phoenician letter gaml                                      10902 Phoenician
@@ -11236,6 +11292,7 @@ z latin small letter z                                           7A Basic Latin
 𐤙 phoenician number one hundred                               10919 Phoenician
 𐤚 phoenician number two                                       1091A Phoenician
 𐤛 phoenician number three                                     1091B Phoenician
+𐤟 phoenician word separator                                   1091F Phoenician
 𐤠 lydian letter a                                             10920 Lydian
 𐤡 lydian letter b                                             10921 Lydian
 𐤢 lydian letter g                                             10922 Lydian
@@ -11262,6 +11319,7 @@ z latin small letter z                                           7A Basic Latin
 𐤷 lydian letter ly                                            10937 Lydian
 𐤸 lydian letter nn                                            10938 Lydian
 𐤹 lydian letter c                                             10939 Lydian
+𐤿 lydian triangular mark                                      1093F Lydian
 𐬀 avestan letter a                                            10B00 Avestan
 𐬁 avestan letter aa                                           10B01 Avestan
 𐬂 avestan letter ao                                           10B02 Avestan
@@ -11322,6 +11380,7 @@ z latin small letter z                                           7A Basic Latin
 𐬼 large two dots over one dot punctuation                     10B3C Avestan
 𐬽 large one dot over two dots punctuation                     10B3D Avestan
 𐬾 large two rings over one ring punctuation                   10B3E Avestan
+𐬿 large one ring over two rings punctuation                   10B3F Avestan
 𑀀 brahmi sign candrabindu                                     11000 Brahmi
 𑀁 brahmi sign anusvara                                        11001 Brahmi
 𑀂 brahmi sign visarga                                         11002 Brahmi
@@ -11430,6 +11489,7 @@ z latin small letter z                                           7A Basic Latin
 𑁭 brahmi digit seven                                          1106D Brahmi
 𑁮 brahmi digit eight                                          1106E Brahmi
 𑁯 brahmi digit nine                                           1106F Brahmi
+𑁿 brahmi number joiner                                        1107F Brahmi
 𒀀 cuneiform sign a                                            12000 Cuneiform
 𒀁 cuneiform sign a times a                                    12001 Cuneiform
 𒀂 cuneiform sign a times bad                                  12002 Cuneiform
@@ -15306,6 +15366,7 @@ z latin small letter z                                           7A Basic Latin
 𝟼 mathematical monospace digit six                            1D7FC Mathematical Alphanumeric Symbols
 𝟽 mathematical monospace digit seven                          1D7FD Mathematical Alphanumeric Symbols
 𝟾 mathematical monospace digit eight                          1D7FE Mathematical Alphanumeric Symbols
+𝟿 mathematical monospace digit nine                           1D7FF Mathematical Alphanumeric Symbols
 🀀 mahjong tile east wind                                      1F000 Mahjong Tiles
 🀁 mahjong tile south wind                                     1F001 Mahjong Tiles
 🀂 mahjong tile west wind                                      1F002 Mahjong Tiles
@@ -15724,6 +15785,7 @@ z latin small letter z                                           7A Basic Latin
 🇼 regional indicator symbol letter w                          1F1FC Enclosed Alphanumeric Supplement
 🇽 regional indicator symbol letter x                          1F1FD Enclosed Alphanumeric Supplement
 🇾 regional indicator symbol letter y                          1F1FE Enclosed Alphanumeric Supplement
+🇿 regional indicator symbol letter z                          1F1FF Enclosed Alphanumeric Supplement
 🈀 square hiragana hoka                                        1F200 Enclosed Ideographic Supplement
 🈁 squared katakana koko                                       1F201 Enclosed Ideographic Supplement
 🈂 squared katakana sa                                         1F202 Enclosed Ideographic Supplement
@@ -16555,6 +16617,7 @@ z latin small letter z                                           7A Basic Latin
 🗼 tokyo tower                                                 1F5FC Miscellaneous Symbols and Pictographs
 🗽 statue of liberty                                           1F5FD Miscellaneous Symbols and Pictographs
 🗾 silhouette of japan                                         1F5FE Miscellaneous Symbols and Pictographs
+🗿 moyai                                                       1F5FF Miscellaneous Symbols and Pictographs
 😀 grinning face                                               1F600 Emoticons
 😁 grinning face with smiling eyes                             1F601 Emoticons
 😂 face with tears of joy                                      1F602 Emoticons
@@ -16634,6 +16697,7 @@ z latin small letter z                                           7A Basic Latin
 🙌 person raising both hands in celebration                    1F64C Emoticons
 🙍 person frowning                                             1F64D Emoticons
 🙎 person with pouting face                                    1F64E Emoticons
+🙏 person with folded hands                                    1F64F Emoticons
 🙐 north west pointing leaf                                    1F650 Ornamental Dingbats
 🙑 south west pointing leaf                                    1F651 Ornamental Dingbats
 🙒 north east pointing leaf                                    1F652 Ornamental Dingbats
@@ -16681,6 +16745,7 @@ z latin small letter z                                           7A Basic Latin
 🙼 very heavy solidus                                          1F67C Ornamental Dingbats
 🙽 very heavy reverse solidus                                  1F67D Ornamental Dingbats
 🙾 checker board                                               1F67E Ornamental Dingbats
+🙿 reverse checker board                                       1F67F Ornamental Dingbats
 🚀 rocket                                                      1F680 Transport and Map Symbols
 🚁 helicopter                                                  1F681 Transport and Map Symbols
 🚂 steam locomotive                                            1F682 Transport and Map Symbols
@@ -17399,3 +17464,4 @@ z latin small letter z                                           7A Basic Latin
 🧼 bar of soap                                                 1F9FC Supplemental Symbols and Pictographs
 🧽 sponge                                                      1F9FD Supplemental Symbols and Pictographs
 🧾 receipt                                                     1F9FE Supplemental Symbols and Pictographs
+🧿 nazar amulet                                                1F9FF Supplemental Symbols and Pictographs
